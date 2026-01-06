@@ -3,7 +3,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to Byteworks accounts related production APIs "
+  message: "Welcome to Byteworks accounts related production APIs Rabbit MQ"
   contactDetails:
     name: "Tobechi Nnakwe - Product Owner"
     email: "{cipher}fe4a67bc175650b4d9c5ea7fd45ab1814e4ddd119e8dd71fa31c9a9a06b693d60647967f3a300138882bf5bf9f5ede04"
