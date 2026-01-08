@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to EazyBank cards related production APIs Rabbit MQ and Webhooks"
+  message: "Welcome to EazyBank cards related production APIs Rabbit MQ and Webhook"
   contactDetails:
     name: "Sandra Harald - Product Owner"
     email: "sandra@eazybank.com"
